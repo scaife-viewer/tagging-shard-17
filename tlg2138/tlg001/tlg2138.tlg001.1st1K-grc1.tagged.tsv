@@ -1,0 +1,219 @@
+1	0	Canticum	ADV	Df		Canticum	vocative	4
+1	1	Ex	ADV	Df		Ex	vocative	4
+1	2	Orestis	ADV	Df		Orestis	vocative	4
+1	3	1	ADV	Df		1	parataxis	4
+1	4	κατολοφύρομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	κατολοφύρω	ROOT	4
+1	5	ματέρος	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	μήτηρ	dep	4
+1	6	οἷμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	οἷμα	appos	10
+1	7	σᾶς	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	σᾶς	nmod	6
+1	8	3	ADV	V-		3	nmod	6
+1	9	ὅ	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	ὅς	nsubj	10
+1	10	σ’	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σ’ς	obj	11
+1	11	ἀναβακχεύει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἀναβακχεύω	parataxis	4
+1	12	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	14
+1	13	μέγας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μέγας	amod	14
+1	14	ὄλβος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ὄλβος	nsubj	11
+1	15	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	16
+1	16	5	ADV	Df		5	dep	11
+1	17	μόνιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	μόνιμος	advmod	16
+1	18	ἐμ	ADP	R-		ἐν	case	19
+1	19	βροτοῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	βροτός	obl	17
+1	20	ἀνὰ	ADP	R-		ἀνά	dep	31
+1	21	δὲ	ADV	Df		δέ	discourse	31
+1	22	λαῖφος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	λαῖφος	obl	31
+1	23	ὥς	ADV	Dq	PronType=Rel	ὡς	advmod	24
+1	24	7	ADV	Df		7	cop	28
+1	25	τις	DET	Px	Case=Nom|Gender=Masc|Number=Sing	τίς	det	26
+1	26	ἀκάτου	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἄκατος	nmod	28
+1	27	θοᾶς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	θοά	amod	26
+1	28	τιωάξας	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	τιωάκω	dep	31
+1	29	δαίμων	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	δαίμων	nsubj	31
+1	30	9	ADV	Df		9	advmod	31
+1	31	κατέκλυσεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	κατακλύω	advcl	11
+1	32	δεινῶν	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	δεῖνος	amod	33
+1	33	πόνων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	πόνος	iobj	31
+1	34	ὡως	ADV	Df		ὡως	advmod	31
+1	35	πόντου	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πόντος	nmod	34
+1	36	11	ADV	Df		11	det	31
+1	37	λάβροις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	λάβρος	amod	38
+1	38	ὀλεθρίοισιν	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ὀλεθρίοι	amod	40
+1	39	ἐν	ADP	R-		ἐν	case	40
+1	40	κύμασιν	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	κῦμα	obl	36
+1	41	.	PUNCT	Z		.	punct	4
+1	42	ln	ADV	Df		ln	ROOT	42
+1	43	pede	ADV	Df		pede	advmod	42
+1	44	3	ADV	V-		3	parataxis	42
+1	45	super	ADV	Nb		super	parataxis	42
+1	46	βακ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	βακ	conj	42
+1	47	Ws	ADV	Ne		Ws	dep	42
+1	48	et	ADV	V-		et	parataxis	42
+1	49	Cr	ADV	V-		Cr	parataxis	42
+1	50	construxerunt	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing	construxerunt	dep	42
+1	51	e	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	e	dep	42
+1	52	sola.	PUNCT	Z		sola.	punct	42
+1	53	infima	ADV	Df		infimaς	ROOT	53
+1	54	linea.	PUNCT	Z		linea.	punct	53
+1	55	in	ADV	Df		in	advmod	56
+1	56	τινάξας	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	τινάσσω	ROOT	56
+1	57	p.	PUNCT	Z		p.	punct	56
+1	58	8	ADV	Df		8	ROOT	58
+1	59	post	ADV	Df		post	advmod	58
+1	60	C	ADV	V-		C	parataxis	58
+1	61	Cr	ADV	V-		Cr	parataxis	58
+1	62	vidisse	ADV	V-		vidisse	parataxis	58
+1	63	sibi	ADV	Nb		sibi	parataxis	58
+1	64	videtur	ADV	Nb		videtur	parataxis	58
+1	65	signum	ADV	Nb		signum	dep	58
+1	66	\.	PUNCT	Z		\.	punct	58
+1	67	p.	PUNCT	Z		p.	punct	58
+1	68	9	ADV	Nb		9	ROOT	68
+1	69	super	ADV	Df		super	advmod	68
+1	70	κατ	ADP	R-		ατ	dep	68
+1	71	:	ADV	Df		:	punct	68
+1	72	Φ	ADV	Df		ΑΒΓ	ROOT	72
+1	73	Cr	ADV	V-		Cr	ROOT	73
+1	74	,	PUNCT	Z		,	punct	73
+1	75	vel	ADV	S-		vel	ROOT	75
+1	76	Δ	ADV	Df		Δ	discourse	75
+1	77	Ws.	PUNCT	Z		Ws.	punct	75
+1	78	ante	ADV	S-		ante	case	79
+1	79	δεινῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	δεῖνος	nmod	80
+1	80	super	ADV	Df		super	ROOT	80
+1	81	vidit	ADV	Nb		vidit	dep	80
+1	82	Cr.	PUNCT	Z		Cr.	punct	80
+1	83	lineam	ADV	Nb		lineam	ROOT	83
+1	84	l.	PUNCT	Z		l.	punct	83
+1	85	idem	ADV	Nb		idem	ROOT	85
+1	86	super	ADV	Df		super	ROOT	86
+1	87	δ(εινῶν	ADV	Df		δ(εινέω	discourse	86
+1	88	)	ADV	Z		)	discourse	86
+1	89	detexit	ADV	Df		detexit	dep	90
+1	90	macu-	ADV	Df		macu-	dislocated	86
+1	91	las	ADV	Nb		las	dep	86
+1	92	nigras	ADV	Nb		nigrasς	conj	86
+1	93	(	PUNCT	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	(	dep	86
+1	94	P?).	ADV	Df		P?).	punct	86
+1	95	p.	PUNCT	Z		p.	punct	86
+1	96	11	ADV	Nb		11	ROOT	96
+1	97	P	ADV	Nb		P	dislocated	96
+1	98	incertum	ADV	V-		incertum	dislocated	96
+1	99	:	ADV	Nb		:	cc	96
+1	100	postea	ADV	S-		postea	conj	96
+1	101	e	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	e	amod	100
+1	102	puncto	ADV	Df		puncto	conj	96
+1	103	con-	ADV	Df		con-	dislocated	96
+1	104	struxit	ADV	Nb		struxit	dep	96
+1	105	C	ADV	Nb		C	dep	96
+1	106	Cr.	PUNCT	Z		Cr.	punct	96
+1	107	p.	PUNCT	Z		p.	punct	96
+1	108	12	ADV	Df		12	ROOT	108
+1	109	super	ADV	Df		super	advmod	108
+1	110	ἐν	ADP	R-		ἐν	case	111
+1	111	construxit	ADP	Nb		construxit	obl	108
+1	112	Ws	ADV	V-		Ws	fixed	108
+1	113	,	PUNCT	Z		,	punct	108
+1	114	Cr.	PUNCT	Z		Cr.	ROOT	114
+1	115	Euripidis.	PUNCT	Z		Euripidis.	punct	114
+1	116	stasimo	ADV	Nb		stasimo	ROOT	116
+1	117	l.	PUNCT	Z		l.	punct	116
+1	118	v.	PUNCT	Z		v.	punct	116
+1	119	330ss.	PUNCT	Z		330ss.	punct	116
+1	120	1	ADV	Df		1	advmod	127
+1	121	κα–	ADV	Ma		κα–	fixed	120
+1	122	τὸ–	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	τὸ–	det	123
+1	123	λο–	NUM	Nb		λο–	nmod	126
+1	124	φύ–	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	φύ–	nmod	123
+1	125	ρο	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ρο	nmod	123
+1	126	–	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	–	appos	121
+1	127	μαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	μαι	ROOT	127
+1	128	μα	X	F-		μα	appos	127
+1	129	–	NUM	Ma		–	appos	128
+1	130	τέ	CCONJ	C-		τε	orphan	128
+1	131	–	ADV	Ma		–	dep	128
+1	132	ρος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	ρος	orphan	128
+1	133	αἷ–	PRON	Df	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	αἷ–	dep	127
+1	134	μα	ADV	Df		μα	conj	127
+1	135	σᾶς	ADJ	Ps	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes	σᾶς	nmod	134
+1	136	,	PUNCT	Z		,	punct	127
+1	137	3	ADV	Df		3	ROOT	137
+1	138	ὅ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὅς	det	139
+1	139	σ’	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σ’ς	nsubj	137
+1	140	ἀ–	ADV	Pr		ἀ–	det	141
+1	141	να–	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	να–	appos	139
+1	142	βακχεύ–	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	βακχεύ–	vocative	137
+1	143	ει	SCONJ	G-		ει	mark	148
+1	144	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	147
+1	145	μέ–	ADV	Ma		μέ–	dep	147
+1	146	γας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	γα	nmod	147
+1	147	ὄλ–	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ὄλ–	nmod	148
+1	148	βος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	βος	nsubj:pass	150
+1	149	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	150
+1	150	5	ADV	Df		5	parataxis	137
+1	151	μό	NOUN	S-	Case=Nom|Gender=Masc|Number=Sing	μό	nsubj	150
+1	152	–	NUM	Ma		–	dep	150
+1	153	νι–	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	νι–	nsubj	150
+1	154	μος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	μος	conj	150
+1	155	ἑν	ADP	R-		ἑν	case	156
+1	156	βρο	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	βρο	obl	158
+1	157	–	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	–	amod	156
+1	158	οῖς	NOUN	Pr	Case=Dat|Gender=Masc|Number=Plur	ός	dep	150
+1	159	·	PUNCT	Z		·	ROOT	159
+1	160	ἀ–νὰ	ADV	Pr		ἀ–νὰ	nsubj	163
+1	161	δὲ	ADV	Df		δέ	discourse	163
+1	162	λαὶ–	ADV	A-		λαὶ–	dep	163
+1	163	φος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	φος	nsubj	205
+1	164	ὥς	ADV	Dq	PronType=Rel	ὡς	advmod	181
+1	165	7	ADV	Df		7	advmod	164
+1	166	τις	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	τίς	det	169
+1	167	ἀ–κά	ADV	Df		ἀ–κά	det	169
+1	168	–τὸ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	–τὸ	det	169
+1	169	θο–	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	θο–	dislocated	165
+1	170	ᾶς	PRON	Pr	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	ᾶς	det	169
+1	171	τι	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	τίς	obl	172
+1	172	νά	NUM	Nb		νά	nsubj	181
+1	173	–ξας	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	–γω	appos	172
+1	174	δαί	ADV	A-		δαί	amod	173
+1	175	–μων	PRON	Nb	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	–μων	appos	172
+1	176	9	ADV	Df		9	appos	172
+1	177	κα–	ADV	Df		κα–	dep	172
+1	178	τέ	CCONJ	Df		τε	cc	172
+1	179	-κλυ	ADV	Df		-κλυ	dep	172
+1	180	–	NUM	Nb		–	appos	172
+1	181	σεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	σεν	advcl	163
+1	182	δεινῶν	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	δεῖνος	amod	183
+1	183	πόνων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	πόνος	obl	181
+1	184	ὡς	ADV	Df		ὡς	advmod	181
+1	185	τόνων	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	τόνων	nsubj	184
+1	186	—	ADV	Df		—	dep	181
+1	187	του	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	τις	det	188
+1	188	11	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	192
+1	189	λάβροις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	λάβρος	amod	190
+1	190	ὀλεθρίοισιν	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ὀλεθρίοις	amod	192
+1	191	ἐν	ADP	R-		ἐν	case	192
+1	192	κύμασιν	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	κῦμα	dep	186
+1	193	.	PUNCT	Z		.	punct	181
+1	194	Signo	ADV	Df		Signo	dep	163
+1	195	x	ADV	Df		x	advmod	194
+1	196	notavi	ADV	Df		notavi	dislocated	194
+1	197	sonos	ADV	Nb		sonos	dislocated	194
+1	198	dies	ADV	Df		dies	fixed	194
+1	199	(	PUNCT	Pp		(	punct	194
+1	200	quarta	ADV	Ne		quarta	dislocated	163
+1	201	toni	ADV	Nb		toni	advmod	200
+1	202	parte	ADV	S-		parte	discourse	200
+1	203	)	ADV	Z		)	discourse	200
+1	204	acutiores.	PUNCT	Z		acutiores.	punct	200
+1	205	sonos	ADV	Nb		sonos	dislocated	214
+1	206	in	ADV	Df		in	advmod	205
+1	207	papyro	ADV	Nb		papyro	parataxis	205
+1	208	desideratos	ADV	Nb		desideratos	parataxis	205
+1	209	supplere	ADV	Nb		supplere	parataxis	205
+1	210	conati	ADV	Nb		conati	fixed	205
+1	211	sunt	ADV	Nb		sunt	fixed	205
+1	212	Wessely	ADV	Nb		Wessely	fixed	205
+1	213	p.	PUNCT	Z		p.	punct	205
+1	214	7	ADV	Df		7	ROOT	214
+1	215	,	PUNCT	Z		,	punct	214
+1	216	Crusius	ADV	Df		Crusius	cc	214
+1	217	p.	PUNCT	Z		p.	punct	214
+1	218	189.	PUNCT	Z		189.	punct	214
